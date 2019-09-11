@@ -1,0 +1,1 @@
+This is the basic scaffolding for a basic webpack project. It should be downloaded and used to quickly demo stuff.
